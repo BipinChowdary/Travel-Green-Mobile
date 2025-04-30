@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "301079922827",
+    "project_id": "fir-react-native-ed913",
+    "storage_bucket": "fir-react-native-ed913.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301079922827:android:58bfc1d19e6837243bec8e",
+        "android_client_info": {
+          "package_name": "com.biggboss6"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL2jC3fPfFwJtvJfp-EqGv8t57Kp5QcAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301079922827:android:a0a3d1bdaf4469a63bec8e",
+        "android_client_info": {
+          "package_name": "com.biggbossteluguvote"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL2jC3fPfFwJtvJfp-EqGv8t57Kp5QcAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301079922827:android:e668df9e83c09aee3bec8e",
+        "android_client_info": {
+          "package_name": "com.example.carbon_credit_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL2jC3fPfFwJtvJfp-EqGv8t57Kp5QcAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
